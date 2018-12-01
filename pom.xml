@@ -4,7 +4,7 @@
 
     <groupId>com.cameroncunning</groupId>
     <artifactId>my_pet_clinic</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -45,7 +45,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/ccunning2/MyPetClinic.git</developerConnection>
-      <tag>my_pet_clinic-0.0.4</tag>
+      <tag>my_pet_clinic-0.0.3</tag>
   </scm>
 
 </project>
