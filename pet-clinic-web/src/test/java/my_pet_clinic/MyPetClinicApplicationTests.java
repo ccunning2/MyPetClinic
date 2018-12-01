@@ -1,4 +1,4 @@
-package com.cameroncunning.my_pet_clinic;
+package my_pet_clinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
