@@ -2,9 +2,11 @@ package com.cameroncunning.my_pet_clinic.services.map;
 
 import com.cameroncunning.my_pet_clinic.model.Pet;
 import com.cameroncunning.my_pet_clinic.services.CrudService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements CrudService<Pet, Long> {
 
 
